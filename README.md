@@ -1,4 +1,4 @@
 # Decrypting-ciphertexts
-Year 3 - Computer Security
-
-Part of the Coursework
+Year 3
+ 
+Part of the Coursework for Computer Security
